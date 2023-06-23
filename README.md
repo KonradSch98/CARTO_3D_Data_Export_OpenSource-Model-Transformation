@@ -58,7 +58,7 @@ import os
 ```
 Followed by
 ```
-os.chdir(r'path to main.py')
+os.chdir(r'<path of main.py>')
 ```
 where at 'path to main.py' you have to insert the path where to find the python script 'main.py' , e.g. 'D:\Eigene Dokumente\Klinik\Carto\Python'
 Finally type
